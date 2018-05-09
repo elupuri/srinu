@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45" started-at="2018-04-08T09:51:11Z" finished-at="2018-04-08T09:51:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45" started-at="2018-04-08T09:51:11Z" finished-at="2018-04-08T09:51:11Z">
+      <class name="ses.Wel">
+        <test-method status="PASS" signature="testloginscreen()[pri:0, instance:ses.Wel@56f4468b]" name="testloginscreen" duration-ms="12" started-at="2018-04-08T09:51:11Z" finished-at="2018-04-08T09:51:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testloginscreen -->
+      </class> <!-- ses.Wel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
